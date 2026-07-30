@@ -106,3 +106,7 @@ The timeout defaults can be overridden for a controlled canary with `SITES_INSTA
 
 - [vinext Documentation](https://github.com/cloudflare/vinext)
 - [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+
+## Live classroom game
+
+Published with GitHub Pages at https://joshuanisnisan02-hub.github.io/dealornodeal/
